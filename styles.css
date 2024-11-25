@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* HEAD SECTION START HERE */
+.headSection{
+  display: flex;
+  padding: 20px;
+}
+
+.nameAndSummary{
+  width: 60%;
+}
+
+.photo{
+  width: ;
+}
+
+/* MIDDLE SECTION START HERE */
+
+
+#mid-section {
+  margin: 20px 20px 40px 0;
+
+}
+.title-with-border {
+  border-bottom: 1px solid #1d4e79;
+  display: flex;    
+  margin: 20px 0;
+}
+
+.head-title{
+    width: 15vw;
+    text-align: center;
+}
+.title-with-border h4 {
+  padding: 8px 40px;
+  background-color: #1d4e79;
+  color: white;
+}
+
+.title{
+    font-weight: 900;
+    /* text-align: right;  */
+}
+
+.margin-left{
+  margin: 0 0 0 20px;
+}
+.title-info {
+  display: flex;
+  margin-bottom: 10px;
+  padding: 8px 40px 0 40px;
+}
+
+.date{
+  text-align: right ;
+  margin-right: 28px;
+  font-weight: normal;
+}
+
+.left-part {
+  width: 20%; 
+  /* margin: 20px; */
+}
+
+.jobTitle{
+  font-weight: 900;
+  text-align: right;
+}
+
+.jobDate{
+  font-weight: normal;
+  text-align: right;
+  margin-right: 10px;
+}
+
+.educationTitle{
+  font-weight: 900;
+  text-align: right;
+  margin-right: 28px;  
+}
+
+.right-part-job{
+  margin-left: 30px;
+}
+
+/* MIDDLE SECTION ENDS HERE */
+
+/* BOTTOM SECTION START HERE */
+#bottom-section{
+  margin-bottom: 20px;
+}
+.bottom-desc{
+    margin: 0 40px 0 60px;
+}
+/* BOTTOM SECION ENDS HERE */
